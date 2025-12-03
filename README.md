@@ -2,6 +2,17 @@
 
 This project demonstrates how to implement Access Control Lists (ACLs) 
 on a segmented network using VLANs and Router-on-a-Stick.
+
+# OVERVIEW
+This project is about controlling who can access what inside a network using Cisko Packet Tracer
+ACLs (Acess Control Lists)
+My network includes 
+. Teaches PCs
+. Student PCs
+. Admin PCs
+. A router connecting the VLANS/Subnets
+. A switch providing access to each VLAN
+
 ## Network Structure
 	•	VLAN 10 – Teachers
 	•	VLAN 20 – Students
