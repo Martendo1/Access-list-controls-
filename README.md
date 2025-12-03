@@ -46,5 +46,8 @@ interface gig0/0.30
  encapsulation dot1Q 30
  ip address 192.168.30.1 255.255.255.0
 
+ ## ACL CONFIGURATION IMAGE
+ https://github.com/Martendo1/Access-list-controls-/blob/6509e7f4ead6af14d5c8df1d7aeabb0d556ae9d7/WhatsApp%20Image%202025-12-03%20at%2010.45.38_3c125a06.jpg?raw=true
+
  
 
