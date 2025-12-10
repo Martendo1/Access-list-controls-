@@ -15,6 +15,14 @@ My network includes
 
 ##NETWORK DESIGN
 
+| NAME       | VLAN | SUBNET          | DEVICES                                | Gi/int         |
+|-------------------|-----------------|----------------------------------------|----------------|
+| Teachers          | 10   | 192.168.10.0/24 | PC0/PC1                                | Gig 0/0.10     |
+| Student           | 20   | 192.168.20.0/24 | PC2, PC3, Laptop 0, Laptop 1           | Gig0/0.20      |
+| Admin/IT          | 30   | 192.168.30.0/24 | PC4 (Admin pc), Server-<br>PT          | Gig0/0.30      |
+
+
+
 | NAME      | VLAN   | SUBNET          | DEVICES                     | Gi/int |
 |-----------|--------|-----------------|-----------------------------|
 | Teachers  |10      | 192.168.10.0/24 | Pc0/Pc1                     | Gig 0/0.10
